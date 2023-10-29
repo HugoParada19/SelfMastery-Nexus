@@ -6,7 +6,7 @@ Hugo Miguel Trindade Parada (March 8th, 2004), is a Portuguese psychology, socio
 
 Hugo started his career in typology in September 10th, 2022 for the purpose of emulating someone else in order to social engineer people. This ultimately fails but Hugo keeps on learning about this system in order to know more about himself and other people.
 
-Hugo self types himself as an INTJ ILI 5w4 Sx/So 514, although some people suggest, ENTP LIE (sometimes SEE), INFJ, and ISTP.
+Hugo self types himself as an [[INTJ]] [[ILI]] 5w4 Sx/So 514, although some people suggest, [[ENTP]] [[LIE]] (sometimes [[SEE]]), [[INFJ]], [[ISTP]] and [[LSI]].
 
 ## Systems used
 
@@ -15,6 +15,10 @@ Hugo started off with 16p dichotomies immediately switching up to MBTI, where we
 
 ### 4SD
 <br>
+### 3 Letter Type abbreviation
+
+^8e2982
+
 Hugo created a 3 letter code for the typings, here is the translation
 <br>
 
@@ -40,5 +44,7 @@ Hugo created a 3 letter code for the typings, here is the translation
 Hugo decided to seggregate the types by two dichotomies and one identifier. Those being, Responding and Initiating, Abstract and Concrete, and then the number of the temple. 1 being Heart Temple, 2 being Soul Temple, 3 being Body Temple and 4 being Mind Temple.
 
 ---
+
+### Temple Dichotomies
 
 Hugo also created dichotomies for the temple system with the help of [[Charlotte]].

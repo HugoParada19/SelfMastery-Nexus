@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4842a1a292b0cc34",
+        "id": "8a9bba505aac4120",
         "type": "tabs",
         "children": [
           {
-            "id": "ba83264608a0a692",
+            "id": "fb232596aa5bde98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Index/SelfMastery Nexus.md",
-                "mode": "source",
+                "file": "Classes/4SD/Types/ENFJ.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Index/SelfMastery Nexus.md",
+                "file": "Classes/4SD/Types/ENFJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Index/SelfMastery Nexus.md",
+                "file": "Classes/4SD/Types/ENFJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Index/SelfMastery Nexus.md"
+                "file": "Classes/4SD/Types/ENFJ.md"
               }
             }
           }
@@ -146,32 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba83264608a0a692",
+  "active": "fb232596aa5bde98",
   "lastOpenFiles": [
-    "LICENSE",
-    "LICENSE.txt",
-    "LICENSE.txt.crdownload",
-    "00-Index/Contributors/Psychologist/Sigmund Freud.md",
+    "Classes/4SD/Types/INFP.md",
+    "Classes/4SD/Dichotomies/Direct.md",
+    "Classes/4SD/Dichotomies/Concrete.md",
+    "Classes/4SD/Dichotomies/Abstract.md",
+    "00-Index/Contributors/Hugo Parada.md",
+    "00-Index/Contributors/Contributors.md",
+    "Classes/4SD/Types/ENFJ.md",
+    "Classes/4SD/Types/ESTJ.md",
+    "Classes/4SD/Types/CSJ_INFP.png",
+    "Classes/4SD/Types/CSJ_INFP.png.crdownload",
+    "Classes/4SD/Types/CSJ_ENFJ.png",
+    "Classes/4SD/Types/CSJ_ENFJ.png.crdownload",
+    "Classes/4SD/Four Sides Dynamics.md",
+    "00-Index/Contributors/Recomendations/Hugo Parada/Reading List/Hugo Parada's Reading List.md",
     "00-Index/Contributors/Psychologist/Carl Gustav Jung.md",
     "Classes/Socionics/Socionics.md",
-    "00-Index/Contributors/Hugo Parada.md",
-    "00-Index/Contributors/hp.jpg",
-    "00-Index/SelfMastery Nexus.md",
-    "Classes/Socionics/soc.jpeg",
-    "00-Index/Contributors/Charlotte.md",
-    "Classes/4SD/Four Sides Dynamics.md",
-    "00-Index/Contributors/Contributors.md",
-    "Classes/Socionics/soc.jpeg.crdownload",
-    "00-Index/Contributors/Psychologist",
-    "00-Index/Psychologies",
-    "Classes/Socionics",
-    "Classes/Classes.md",
-    "Classes/4SD",
-    "Classes/Untitled.md",
-    "Classes",
+    "Classes/4SD/Functions/Introverted Intuition.md",
+    "Classes/4SD/Types/CSJ_ESTJ.png",
+    "Classes/4SD/Types/ESTJ.png.crdownload",
+    "Classes/4SD/Dichotomies/Dichotomies.md",
+    "Classes/4SD/Types",
+    "Classes/4SD/Dichotomies/Initiating.md",
+    "Classes/4SD/Dichotomies/Informative.md",
+    "Classes/4SD/Dichotomies/Responding.md",
     "Untitled.md",
-    "Index/Untitled.md",
-    "00-Index/Contributors",
-    "00-Index"
+    "Abstract.md",
+    "Classes/4SD/Functions/Extroverted Thinking.md",
+    "Classes/4SD/Functions/Introverted Sensing.md",
+    "Classes/4SD/Functions/Extroverted Sensing.md",
+    "Classes/4SD/Functions/Introverted Feeling.md",
+    "Classes/4SD/Functions/Extroverted Feeling.md",
+    "Classes/4SD/Functions/Introverted Thinking.md",
+    "00-Index/Contributors/Recomendations/Hugo Parada",
+    "00-Index/Contributors/Recomendations",
+    "Classes/4SD/Functions/Function descriptions by Hugo Parada",
+    "Classes/4SD/Dichotomies",
+    "Classes/4SD/Function sloths",
+    "Classes/4SD/Functions",
+    "00-Index/Contributors/hp.jpg",
+    "Classes/Socionics/soc.jpeg"
   ]
 }

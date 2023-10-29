@@ -6,4 +6,4 @@ The was created during the midnight of October 29th. It contains explanations of
 
 ## SelfMastery Nexus Home
 
-SelfMastery Nexus is an Obsidian Vault that stores information regarding how to better our selves using typology, books and systems.
+SelfMastery Nexus is an Obsidian Vault that stores information regarding how to better our selves using [[Classes|typology]], books and systems.
