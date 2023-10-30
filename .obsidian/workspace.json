@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "46d0ea4fd5473e28",
+        "id": "7b051f549cd5a236",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "2b0e4f2a894bd86a",
+            "id": "9013db02d2ed8a78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Index/Contributors/Recomendations/Hugo Parada/Reading List/Hugo Parada's Reading List.md",
-                "mode": "source",
+                "file": "Classes/4SD/Types/ISFJ.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "cd5b8e32c992276e",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "7176fb2f7c62a7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/4SD/Types/ESFP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88ee84fde5508d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/4SD/Types/ENTP.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6a722a8921c3f7ba",
@@ -85,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Index/Contributors/Recomendations/Hugo Parada/Reading List/Hugo Parada's Reading List.md",
+                "file": "Classes/4SD/Types/ISFJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Index/Contributors/Recomendations/Hugo Parada/Reading List/Hugo Parada's Reading List.md",
+                "file": "Classes/4SD/Types/ISFJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Index/Contributors/Recomendations/Hugo Parada/Reading List/Hugo Parada's Reading List.md"
+                "file": "Classes/4SD/Types/ISFJ.md"
               }
             }
           }
@@ -146,48 +180,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b0e4f2a894bd86a",
+  "active": "9013db02d2ed8a78",
   "lastOpenFiles": [
-    "00-Index/Contributors/Psychologist/Sigmund Freud.md",
-    "00-Index/Contributors/Psychologist/Carl Gustav Jung.md",
-    "Classes/Socionics/Socionics.md",
-    "Classes/4SD/Functions/Introverted Intuition.md",
-    "Classes/4SD/Functions/Extroverted Feeling.md",
-    "Classes/4SD/Dichotomies/Initiating.md",
-    "Classes/4SD/Dichotomies/Informative.md",
-    "Classes/4SD/Dichotomies/Abstract.md",
-    "00-Index/Contributors/Hugo Parada.md",
+    "Classes/4SD/Types/ENTP.md",
+    "Classes/4SD/Types/ISFJ.md",
+    "Classes/4SD/Types/CSJ_ENTP.png",
+    "Classes/4SD/Types/CSJ_ENTP.png.crdownload",
+    "Classes/4SD/Types/ESFP.md",
+    "Classes/4SD/Types/INTJ.md",
+    "Classes/4SD/Types/ESTJ.md",
+    "Classes/4SD/Types/INTKJ.md",
     "Classes/4SD/Types/ENFJ.md",
     "Classes/4SD/Types/INFP.md",
-    "Classes/4SD/Dichotomies/Direct.md",
-    "Classes/4SD/Dichotomies/Concrete.md",
-    "00-Index/Contributors/Contributors.md",
-    "Classes/4SD/Types/ESTJ.md",
-    "Classes/4SD/Types/CSJ_INFP.png",
-    "Classes/4SD/Types/CSJ_INFP.png.crdownload",
-    "Classes/4SD/Types/CSJ_ENFJ.png",
-    "Classes/4SD/Types/CSJ_ENFJ.png.crdownload",
-    "Classes/4SD/Four Sides Dynamics.md",
     "00-Index/Contributors/Recomendations/Hugo Parada/Reading List/Hugo Parada's Reading List.md",
-    "Classes/4SD/Types/CSJ_ESTJ.png",
-    "Classes/4SD/Types/ESTJ.png.crdownload",
-    "Classes/4SD/Dichotomies/Dichotomies.md",
-    "Classes/4SD/Types",
-    "Classes/4SD/Dichotomies/Responding.md",
-    "Untitled.md",
-    "Abstract.md",
-    "Classes/4SD/Functions/Extroverted Thinking.md",
-    "Classes/4SD/Functions/Introverted Sensing.md",
-    "Classes/4SD/Functions/Extroverted Sensing.md",
-    "Classes/4SD/Functions/Introverted Feeling.md",
+    "Classes/4SD/Types/csj_satisfaction.png",
+    "Classes/4SD/Types/csj_satisfaction.png.crdownload",
+    "Classes/4SD/Types/CSJ_ISFJ.png",
+    "Classes/4SD/Types/CSJ_ISFJ.png.crdownload",
+    "Classes/4SD/Types/CSJ_ESFP.png",
+    "Classes/4SD/Types/CSJ_ESFP.png.crdownload",
+    "Classes/4SD/Types/ISTP.md",
+    "Classes/4SD/Types/csj_authority.png",
+    "Classes/4SD/Types/csj_reverence.png",
+    "Classes/4SD/Types/csj_validation.png",
+    "Classes/4SD/Types/reverence.png.crdownload",
+    "Classes/4SD/Types/CSJ_INTJ.png",
+    "00-Index/Contributors/Hugo Parada.md",
+    "Classes/4SD/Types/CSJ_ISTP.png",
+    "Classes/4SD/Types/Quadra.md",
+    "Classes/4SD/Types/authority.png.crdownload",
+    "Classes/4SD/Types/validation.png.crdownload",
+    "Classes/4SD/Types/Microvector.md",
+    "Classes/4SD/Dichotomies/Untitled.md",
+    "Classes/4SD/Functions/CSJ_Fi.png",
     "Classes/4SD/Functions/Introverted Thinking.md",
-    "00-Index/Contributors/Recomendations/Hugo Parada",
-    "00-Index/Contributors/Recomendations",
-    "Classes/4SD/Functions/Function descriptions by Hugo Parada",
-    "Classes/4SD/Dichotomies",
-    "Classes/4SD/Function sloths",
-    "Classes/4SD/Functions",
-    "00-Index/Contributors/hp.jpg",
-    "Classes/Socionics/soc.jpeg"
+    "Classes/4SD/Functions/Introverted Sensing.md",
+    "Classes/4SD/Functions/Introverted Intuition.md",
+    "Classes/4SD/Functions/Introverted Feeling.md",
+    "Classes/4SD/Functions/Extroverted Thinking.md",
+    "Classes/4SD/Functions/Extroverted Sensing.md",
+    "Classes/4SD/Functions/Extroverted Intuition.md",
+    "Classes/4SD/Functions/Extroverted Feeling.md",
+    "Classes/4SD/Functions/CSJ_Ne.png.crdownload",
+    "Classes/4SD/Functions/CSJ_SI.png.crdownload",
+    "Classes/4SD/Functions/CSJ_Se.png.crdownload",
+    "00-Index/Contributors/Recomendations/Hugo Parada/Reading List/Charlotte's Reading List.md",
+    "00-Index/Contributors/Contributors.md",
+    "Classes/4SD/Four Sides Dynamics.md"
   ]
 }

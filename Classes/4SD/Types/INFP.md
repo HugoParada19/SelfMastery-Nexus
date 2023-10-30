@@ -5,6 +5,8 @@
 
 **Nicknames**: The Mystic, or the archetype **Levi Ackerman**
 
+---
+
 <center> INFP (RA4) Function Model (4SD)</center>
 <br>
 
@@ -19,3 +21,32 @@
 | Critic | [[Introverted Intuition\|Ni]] | [[Extroverted Sensing\|Se]] | [[Extroverted Intuition\|Ne]] | [[Introverted Sensing\|Si]] |
 | Trickster | [[Extroverted Sensing\|Se]] | [[Introverted Intuition\|Ni]] | [[Introverted Sensing\|Si]] | [[Extroverted Intuition\|Ne]] |
 | Demon | [[Introverted Thinking\|Ti]] | [[Extroverted Feeling\|Fe]] | [[Extroverted Thinking\|Te]] | [[Introverted Feeling\|Fi]] |
+
+---
+<center>INFP Dichotomies, Small groups, Macrovectors and Microvectors</center>
+
+[[Interaction Styles]]: [[Responding]], [[Informative]], [[Outcome]]
+[[World View]]: [[Abstract]], [[Interest]], [[Affiliative]]
+[[Groups]]: [[Background]], [[Idealists]]
+[[Temple]]: [[Mind Temple]]
+[[Quadra]]: [[Philosopher]]
+[[Microvector Triple]]: [[Outcome|Triple Outcome]], [[Affiliative|Triple Affiliative]]
+[[Virtue]]: [[Loyalty]]
+[[Vice]]: [[Treachery]]
+
+---
+## Temple wheel
+
+[[Dyad]]: [[Authority]]
+![[csj_authority.png]]
+[[Cognitive Origin]]: [[Authority]]
+[[Living Virtue]]: [[Initiative]]
+[[Deadly Sin]]: [[Sloth]]
+[[Shadow Pole]]: [[Manifestation]]
+[[Aspirational Pole]]: [[Credulity]]
+[[God Function|God Functions]]: [[Extroverted Sensing]] and [[Introverted Feeling]]
+
+---
+## Superlatives
+
+Most delusional, biggest dreamer, quietest, most likely to be ignored.

@@ -1,7 +1,7 @@
 ![[CSJ_ESTJ.png|250]]
 **Extroverted, Sensing, Thinking, Judging**
 
-**Type abreviation**: TeSe, IC4 (See [[Hugo Parada#^8e2982|Hugo Parada's 3 letter type abbreviation]])
+**Type abbreviation**: TeSe, IC4 (See [[Hugo Parada#^8e2982|Hugo Parada's 3 digit type abbreviation]])
 
 **Nicknames**: Judicator, or the archetype **Ron DeSantis**
 
@@ -19,3 +19,33 @@
 | Critic | [[Extroverted Sensing\|Se]] | [[Introverted Intuition\|Ni]] | [[Introverted Sensing\|Si]] | [[Extroverted Intuition\|Ne]] |
 | Trickster | [[Introverted Intuition\|Ni]] | [[Extroverted Sensing\|Se]] | [[Extroverted Intuition\|Ne]] | [[Introverted Sensing\|Si]] |
 | Demon | [[Extroverted Feeling\|Fe]] | [[Introverted Thinking\|Ti]] | [[Introverted Feeling\|Fi]] | [[Extroverted Thinking\|Te]] |
+
+---
+<center>ESTJ Dichotomies, Small groups, Macrovectors and Microvectors</center>
+
+[[Interaction Styles]]: [[Initiating]], [[Direct]], [[Outcome]]
+[[World View]]: [[Abstract]], [[Interest]], [[Affiliative]]
+[[Groups]]: [[Background]], [[Idealists]]
+[[Temple]]: [[Mind Temple]]
+[[Quadra]]: [[Philosopher]]
+[[Microvector Triple]]: [[Triple microvector non-existent|Not Appliable]]
+[[Virtue]]: [[Serenity]]
+[[Vice]]: [[Chaos]]
+
+---
+
+## Temple wheel
+
+[[Dyad]]: [[Authority]]
+![[csj_authority.png]]
+[[Cognitive Origin]]: [[Authority]]
+[[Living Virtue]]: [[Initiative]]
+[[Deadly Sin]]: [[Sloth]]
+[[Shadow Pole]]: [[Manifestation]]
+[[Aspirational Pole]]: [[Credulity]]
+[[God Function|God Functions]]: [[Extroverted Sensing]] and [[Introverted Thinking]]
+
+---
+## Superlatives
+
+Most zen, most traditional, most official, best managers, most difficult to convince
