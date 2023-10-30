@@ -15,14 +15,14 @@ Hugo started off with 16p dichotomies immediately switching up to MBTI, where we
 
 ### 4SD
 <br>
-### 3 Letter Type abbreviation
+#### 3 Letter Type abbreviation
 
 ^8e2982
 
 Hugo created a 3 letter code for the typings, here is the translation
 <br>
 
-|4 Letter code|3 Letter code|
+|4 Letter code|3 Digit code|
 |---|---|
 |ISFJ|RC1|
 |INTJ|RA1|
@@ -33,7 +33,7 @@ Hugo created a 3 letter code for the typings, here is the translation
 |ESTP|IC2|
 |ENFP|IA2|
 |ISFP|RC3|
-|INTP|RC3|
+|INTP|RA3|
 |ESFJ|IC3|
 |ENTJ|IA3|
 |ISTP|RC4|
@@ -45,6 +45,6 @@ Hugo decided to seggregate the types by two dichotomies and one identifier. Thos
 
 ---
 
-### Temple Dichotomies
+#### Temple Dichotomies
 
 Hugo also created dichotomies for the temple system with the help of [[Charlotte]].
