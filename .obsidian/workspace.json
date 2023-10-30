@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7b051f549cd5a236",
+        "id": "d5fb94b5039219b1",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "9013db02d2ed8a78",
+            "id": "c590886e8b414529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/4SD/Types/ISFJ.md",
+                "file": "01-Classes/4SD/Types/ESTJ.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "cd5b8e32c992276e",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "7176fb2f7c62a7bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/4SD/Types/ESFP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88ee84fde5508d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/4SD/Types/ENTP.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "6a722a8921c3f7ba",
@@ -119,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/4SD/Types/ISFJ.md",
+                "file": "01-Classes/4SD/Types/ESTJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/4SD/Types/ISFJ.md",
+                "file": "01-Classes/4SD/Types/ESTJ.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -159,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/4SD/Types/ISFJ.md"
+                "file": "01-Classes/4SD/Types/ESTJ.md"
               }
             }
           }
@@ -180,52 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9013db02d2ed8a78",
+  "active": "c590886e8b414529",
   "lastOpenFiles": [
-    "Classes/4SD/Types/ENTP.md",
-    "Classes/4SD/Types/ISFJ.md",
-    "Classes/4SD/Types/CSJ_ENTP.png",
-    "Classes/4SD/Types/CSJ_ENTP.png.crdownload",
-    "Classes/4SD/Types/ESFP.md",
-    "Classes/4SD/Types/INTJ.md",
-    "Classes/4SD/Types/ESTJ.md",
-    "Classes/4SD/Types/INTKJ.md",
-    "Classes/4SD/Types/ENFJ.md",
-    "Classes/4SD/Types/INFP.md",
-    "00-Index/Contributors/Recomendations/Hugo Parada/Reading List/Hugo Parada's Reading List.md",
-    "Classes/4SD/Types/csj_satisfaction.png",
-    "Classes/4SD/Types/csj_satisfaction.png.crdownload",
-    "Classes/4SD/Types/CSJ_ISFJ.png",
-    "Classes/4SD/Types/CSJ_ISFJ.png.crdownload",
-    "Classes/4SD/Types/CSJ_ESFP.png",
-    "Classes/4SD/Types/CSJ_ESFP.png.crdownload",
-    "Classes/4SD/Types/ISTP.md",
-    "Classes/4SD/Types/csj_authority.png",
-    "Classes/4SD/Types/csj_reverence.png",
-    "Classes/4SD/Types/csj_validation.png",
-    "Classes/4SD/Types/reverence.png.crdownload",
-    "Classes/4SD/Types/CSJ_INTJ.png",
+    "Menu/Cognitive Functions.md",
+    "Menu/Contributors.md",
+    "Menu/The 16 Types.md",
+    "Menu.md",
+    "Menu",
+    "01-Classes/Classes.md",
+    "00-Index/SelfMastery Nexus.md",
+    "01-Classes/4SD/Types/ESTJ.md",
+    "01-Classes/4SD/Types/ENTP.md",
+    "01-Classes/4SD/Types/ENFJ.md",
+    "01-Classes/4SD/Types/INTJ.md",
+    "01-Classes/4SD/Types/INFP.md",
+    "01-Classes/4SD/Types/ISFJ.md",
+    "01-Classes/4SD/Types/ISTP.md",
+    "01-Classes/4SD/Four Sides Dynamics.md",
+    "01-Classes/Socionics/Socionics.md",
+    "00-Index/Contributors/Psychologist/Sigmund Freud.md",
+    "00-Index/Contributors/Psychologist/Carl Gustav Jung.md",
+    "00-Index/Contributors/Recomendations/Reading List/Reading List.md",
+    "00-Index/Contributors/Recomendations/Reading List/Charlotte's Reading List.md",
+    "00-Index/Contributors/Recomendations/Charlotte/Reading List",
+    "00-Index/Contributors/Recomendations/Charlotte",
     "00-Index/Contributors/Hugo Parada.md",
-    "Classes/4SD/Types/CSJ_ISTP.png",
-    "Classes/4SD/Types/Quadra.md",
-    "Classes/4SD/Types/authority.png.crdownload",
-    "Classes/4SD/Types/validation.png.crdownload",
-    "Classes/4SD/Types/Microvector.md",
-    "Classes/4SD/Dichotomies/Untitled.md",
-    "Classes/4SD/Functions/CSJ_Fi.png",
-    "Classes/4SD/Functions/Introverted Thinking.md",
-    "Classes/4SD/Functions/Introverted Sensing.md",
-    "Classes/4SD/Functions/Introverted Intuition.md",
-    "Classes/4SD/Functions/Introverted Feeling.md",
-    "Classes/4SD/Functions/Extroverted Thinking.md",
-    "Classes/4SD/Functions/Extroverted Sensing.md",
-    "Classes/4SD/Functions/Extroverted Intuition.md",
-    "Classes/4SD/Functions/Extroverted Feeling.md",
-    "Classes/4SD/Functions/CSJ_Ne.png.crdownload",
-    "Classes/4SD/Functions/CSJ_SI.png.crdownload",
-    "Classes/4SD/Functions/CSJ_Se.png.crdownload",
-    "00-Index/Contributors/Recomendations/Hugo Parada/Reading List/Charlotte's Reading List.md",
     "00-Index/Contributors/Contributors.md",
-    "Classes/4SD/Four Sides Dynamics.md"
+    "Classes/Untitled/Untitled",
+    "01-Classes/Enneagram",
+    "00-Index/Contributors/Charlotte.md",
+    "01-Classes/Attitudinal Psyche",
+    "01-Classes/Stats",
+    "00-Index/Contributors/ILI.md",
+    "01-Classes/4SD/Types/ESFP.md",
+    "01-Classes/4SD/Dichotomies/Informative.md",
+    "01-Classes/4SD/Dichotomies/Initiating.md",
+    "01-Classes/4SD/Types/CSJ_ENTP.png",
+    "Classes/4SD/Types/CSJ_ENTP.png.crdownload",
+    "01-Classes/4SD/Types/csj_satisfaction.png",
+    "Classes/4SD/Types/csj_satisfaction.png.crdownload",
+    "01-Classes/4SD/Types/CSJ_ISFJ.png",
+    "Classes/4SD/Types/CSJ_ISFJ.png.crdownload",
+    "01-Classes/4SD/Types/CSJ_ESFP.png",
+    "01-Classes/4SD/Types/csj_authority.png",
+    "01-Classes/4SD/Types/csj_reverence.png",
+    "01-Classes/4SD/Types/csj_validation.png",
+    "01-Classes/4SD/Types/CSJ_INTJ.png",
+    "01-Classes/4SD/Types/CSJ_ISTP.png",
+    "01-Classes/4SD/Functions/CSJ_Fi.png"
   ]
 }

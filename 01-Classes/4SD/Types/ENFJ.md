@@ -50,4 +50,4 @@
 ---
 ## Superlatives
 
-best at organizing events, most determined to please everyone, most likely to become a mafia boss
+Best at organizing events, most determined to please everyone, most likely to become a mafia boss

@@ -4,7 +4,7 @@
 **Type abbreviation**: NiTe, RA1 (See [[Hugo Parada#^8e2982|Hugo Parada's 3 digit type abbreviation]])
 
 
-**Nicknames**: The ranger, The critic, or the archetype **Ayanokoji Kyotaka**
+**Nicknames**: The ranger, The critic, or the archetype **Kyotaka Ayanokoji**
 
 ---
 

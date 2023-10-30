@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "theme": "system",
-  "cssTheme": "80s Neon"
+  "cssTheme": "80s Neon",
+  "enabledCssSnippets": [
+    "theme"
+  ]
 }
