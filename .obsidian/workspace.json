@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Classes/4SD/Types/ESTJ.md",
+                "file": "00-Index/Contributors/Contributors.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Classes/4SD/Types/ESTJ.md",
+                "file": "00-Index/Contributors/Contributors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Classes/4SD/Types/ESTJ.md",
+                "file": "00-Index/Contributors/Contributors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Classes/4SD/Types/ESTJ.md"
+                "file": "00-Index/Contributors/Contributors.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "c590886e8b414529",
   "lastOpenFiles": [
+    "01-Classes/4SD/Types/ENFJ.md",
+    "00-Index/Contributors/Charlotte.md",
+    "00-Index/Contributors/Hugo Parada.md",
+    "00-Index/Contributors/Contributors.md",
+    "01-Classes/4SD/Types/ESTJ.md",
     "Menu/Cognitive Functions.md",
     "Menu/Contributors.md",
     "Menu/The 16 Types.md",
@@ -155,9 +160,7 @@
     "Menu",
     "01-Classes/Classes.md",
     "00-Index/SelfMastery Nexus.md",
-    "01-Classes/4SD/Types/ESTJ.md",
     "01-Classes/4SD/Types/ENTP.md",
-    "01-Classes/4SD/Types/ENFJ.md",
     "01-Classes/4SD/Types/INTJ.md",
     "01-Classes/4SD/Types/INFP.md",
     "01-Classes/4SD/Types/ISFJ.md",
@@ -170,11 +173,8 @@
     "00-Index/Contributors/Recomendations/Reading List/Charlotte's Reading List.md",
     "00-Index/Contributors/Recomendations/Charlotte/Reading List",
     "00-Index/Contributors/Recomendations/Charlotte",
-    "00-Index/Contributors/Hugo Parada.md",
-    "00-Index/Contributors/Contributors.md",
     "Classes/Untitled/Untitled",
     "01-Classes/Enneagram",
-    "00-Index/Contributors/Charlotte.md",
     "01-Classes/Attitudinal Psyche",
     "01-Classes/Stats",
     "00-Index/Contributors/ILI.md",
