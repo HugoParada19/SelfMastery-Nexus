@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00-Index/Contributors/Contributors.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,34 +143,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "c590886e8b414529",
   "lastOpenFiles": [
+    "00-Index/Contributors/Contributors.md",
+    "00-Index/SelfMastery Nexus.md",
+    "00-Index/Contributors/Hugo Parada.md",
+    "Menu.md",
+    "Menu/The 16 Types.md",
+    "Menu/Contributors.md",
+    "Menu/Cognitive Functions.md",
+    "01-Classes/Socionics/Socionics.md",
+    "01-Classes/4SD/Dichotomies/Direct.md",
+    "01-Classes/Socionics/soc.jpeg",
+    "00-Index/Contributors/Psychologist/Sigmund Freud.md",
+    "00-Index/Contributors/Psychologist/Carl Gustav Jung.md",
+    "00-Index/Contributors/Recomendations/Reading List/Hugo Parada's Reading List.md",
+    "00-Index/Contributors/Recomendations/Reading List/Charlotte's Reading List.md",
     "01-Classes/4SD/Types/ENFJ.md",
     "00-Index/Contributors/Charlotte.md",
-    "00-Index/Contributors/Hugo Parada.md",
-    "00-Index/Contributors/Contributors.md",
     "01-Classes/4SD/Types/ESTJ.md",
-    "Menu/Cognitive Functions.md",
-    "Menu/Contributors.md",
-    "Menu/The 16 Types.md",
-    "Menu.md",
     "Menu",
     "01-Classes/Classes.md",
-    "00-Index/SelfMastery Nexus.md",
     "01-Classes/4SD/Types/ENTP.md",
     "01-Classes/4SD/Types/INTJ.md",
     "01-Classes/4SD/Types/INFP.md",
     "01-Classes/4SD/Types/ISFJ.md",
     "01-Classes/4SD/Types/ISTP.md",
     "01-Classes/4SD/Four Sides Dynamics.md",
-    "01-Classes/Socionics/Socionics.md",
-    "00-Index/Contributors/Psychologist/Sigmund Freud.md",
-    "00-Index/Contributors/Psychologist/Carl Gustav Jung.md",
     "00-Index/Contributors/Recomendations/Reading List/Reading List.md",
-    "00-Index/Contributors/Recomendations/Reading List/Charlotte's Reading List.md",
     "00-Index/Contributors/Recomendations/Charlotte/Reading List",
     "00-Index/Contributors/Recomendations/Charlotte",
     "Classes/Untitled/Untitled",
@@ -179,8 +183,6 @@
     "01-Classes/Stats",
     "00-Index/Contributors/ILI.md",
     "01-Classes/4SD/Types/ESFP.md",
-    "01-Classes/4SD/Dichotomies/Informative.md",
-    "01-Classes/4SD/Dichotomies/Initiating.md",
     "01-Classes/4SD/Types/CSJ_ENTP.png",
     "Classes/4SD/Types/CSJ_ENTP.png.crdownload",
     "01-Classes/4SD/Types/csj_satisfaction.png",
@@ -192,7 +194,6 @@
     "01-Classes/4SD/Types/csj_reverence.png",
     "01-Classes/4SD/Types/csj_validation.png",
     "01-Classes/4SD/Types/CSJ_INTJ.png",
-    "01-Classes/4SD/Types/CSJ_ISTP.png",
-    "01-Classes/4SD/Functions/CSJ_Fi.png"
+    "01-Classes/4SD/Types/CSJ_ISTP.png"
   ]
 }

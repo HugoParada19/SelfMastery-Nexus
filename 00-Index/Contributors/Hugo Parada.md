@@ -10,7 +10,7 @@ Hugo self types himself as an [[INTJ]] [[ILI]] 5w4 Sx/So 514, although some peop
 
 ## Systems used
 
-Hugo started off with 16p dichotomies immediately switching up to MBTI, where we settled through the course of November 2022 to April 2023. Hugo in the mean time, learned a bit about [[Socionics]] and Enneagram, but didn't gave them as much importance as MBTI. Later on Hugo met a group of people interested in the CSJ Community where he was presented with the concept of 4SD ([[Four Sides Dynamics]]). After Hugo had learned about this, he had completely taken MBTI out of his life and started using [[Four Sides Dynamics|4SD]] to type people and understand others. 
+Hugo started off with 16p dichotomies immediately switching up to MBTI, where he settled through the course of November 2022 to April 2023. Hugo in the mean time, learned a bit about [[Socionics]] and [[Enneagram]], but didn't gave them as much importance as MBTI. Later on Hugo met a group of people interested in the CSJ Community where he was presented with the concept of 4SD ([[Four Sides Dynamics]]). After Hugo had learned about this, he had completely taken MBTI out of his life and started using [[Four Sides Dynamics|4SD]] to type people and understand others. 
 ## Contributions 
 
 ### 4SD
